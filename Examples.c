@@ -15,5 +15,5 @@ int main() {
 //function definition
 int func()
 {
-   return 0;
+   return 3%2;
 }
